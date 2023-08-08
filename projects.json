@@ -1,0 +1,115 @@
+[
+    {
+      "name": "Sample Portfolio",
+      "img": "https://i.ibb.co/N6BgkPT/sample-portfolio.png",
+      "live_link": "https://jaznanofficial.github.io/sample-portfolio/",
+      "frontend_link": "https://github.com/shakilla1/sample-portfolio",
+      "server_link": "",
+      "features": [
+        "Html",
+        "Css"
+      ],
+      "category_type": "design"
+    },
+    {
+      "name": "CarDeal",
+      "img": "https://i.ibb.co/mXCkX3b/category-one.png",
+      "live_link": "https://car-deal-category.web.app/",
+      "frontend_link": "https://github.com/shakilla1/car-deal-client-side",
+      "server_link": "https://github.com/shakilla1/car-deal-server-side",
+      "features": [
+        "React",
+        "Bootstrap",
+        "Firebase",
+        "Axios",
+        "React-Hook-Form",
+        "Node JS",
+        "Express JS",
+        "MongoDB"
+      ],
+      "category_type": "fullstack"
+    },
+    {
+      "name": "Great Assists",
+      "img": "https://i.ibb.co/R3r0c6t/great-assists.png",
+      "live_link": "https://great-assists-client.vercel.app/",
+      "frontend_link": "https://github.com/shakilla1/great-assists-client",
+      "server_link": "",
+      "features": [
+        "React",
+        "Bootstrap",
+        "Firebase",
+        "Axios",
+        "React-Hook-Form"
+      ],
+      "category_type": "frontend"
+    },
+    {
+      "name": "KnowledgeDot",
+      "img": "https://i.ibb.co/M6nPBjF/knowledge-dot.png",
+      "live_link": "https://sage-strudel-546d32.netlify.app/",
+      "frontend_link": "",
+      "server_link": "https://github.com/shakilla1/knowledge-dot-server",
+      "features": [
+        "Node JS",
+        "Express JS",
+        "Mongoose",
+        "Validator",
+        "MongoDB"
+      ],
+      "category_type": "server"
+    },
+    {
+      "name": "Ace of science",
+      "img": "https://i.ibb.co/gVMvbTh/aos.png",
+      "live_link": "https://ace-of-science.web.app/",
+      "frontend_link": "https://github.com/shakilla1/ace-of-science-site",
+      "server_link": "https://github.com/shakilla1/ace-of-science-server-own",
+      "features": [
+        "React",
+        "Bootstrap",
+        "Firebase",
+        "Messenger chat widget",
+        "Node JS",
+        "Express JS",
+        "MongoDB"
+      ],
+      "category_type": "fullstack"
+    },
+    {
+      "name": "DocTalk",
+      "img": "https://i.ibb.co/qp90zs5/doctalk.png",
+      "live_link": "https://doctalk-jaznan.vercel.app/",
+      "frontend_link": "https://github.com/shakilla1/doctalk-client-side",
+      "server_link": "https://github.com/shakilla1/doctalk-server-side",
+      "features": [
+        "React",
+        "Material UI",
+        "Firebase",
+        "Stripe",
+        "Node JS",
+        "Express JS",
+        "MongoDB",
+        "Whatsapp chat widget"
+      ],
+      "category_type": "fullstack"
+    },
+    {
+      "name": "G-shop-admin",
+      "img": "https://i.ibb.co/9ZjQmN4/g-shop.png",
+      "live_link": "https://g-shop-admin.vercel.app/",
+      "frontend_link": "https://github.com/shakilla1/galibs-eshop-admin",
+      "server_link": "https://github.com/shakilla1/galibs-eshop-server",
+      "features": [
+        "React",
+        "Tailwind CSS",
+        "Firebase",
+        "Axios",
+        "React Chart js",
+        "Express JS",
+        "Mongoose",
+        "MongoDB"
+      ],
+      "category_type": "fullstack"
+    }
+  ]
